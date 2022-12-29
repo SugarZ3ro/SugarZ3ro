@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SugarZ3ro&theme=tokyonight_duo&border_radius=21.2)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarZ3ro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SugarZ3ro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
